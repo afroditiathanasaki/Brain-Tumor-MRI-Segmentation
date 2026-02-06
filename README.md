@@ -49,5 +49,4 @@ Brain-Tumor-MRI-Segmentation/
 ├── training.py          # Model definition and training loop
 ├── utilities.py         # Helper functions (metrics, visualization, utilities)
 ├── testing.ipynb        # Notebook for evaluation and qualitative results
-├── requirements.txt     # Python dependencies
 └── README.md
